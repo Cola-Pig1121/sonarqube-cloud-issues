@@ -21,7 +21,7 @@
 
 ### 1. 获取项目
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Cola-Pig1121/sonarqube-cloud-issues.git
 cd sonarqube-cloud-issues
 ```
 
