@@ -1,0 +1,12 @@
+[project]
+name = "sonarqube-cloud-issues"
+version = "0.1.0"
+description = "一个用于从SonarCloud导出issues并支持多种格式（Excel、CSV、JSON）导出的Python工具。"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "pyinstaller>=6.17.0",
+    "requests>=2.32.5",
+]
