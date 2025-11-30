@@ -1,4 +1,4 @@
-# SonarCloud Issues Exporter
+# SonarCloud Issues
 
 一个用于从SonarCloud导出issues并支持多种格式（Excel、CSV、JSON）导出的Python工具。
 
@@ -212,5 +212,3 @@ SOFTWARE.
 3. 查看程序运行时的控制台输出，里面会有详细的错误信息帮助定位问题
 
 ---
-
-感谢使用SonarCloud Issues Exporter，这个工具能让代码质量分析工作变得更轻松！
