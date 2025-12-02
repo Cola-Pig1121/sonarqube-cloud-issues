@@ -787,7 +787,7 @@ def download_file(url, dest_path):
 def show_main_menu():
     """显示主菜单"""
     print("\n" + "=" * 60)
-    print("SonarCloud Issues Exporter 主菜单")
+    print("SonarCloud Issues 主菜单")
     print("=" * 60)
     print("(1) 导出Issues")
     print("(2) 设置")
@@ -798,7 +798,7 @@ def show_main_menu():
 def main():
     """主函数"""
     print("=" * 60)
-    print(f"SonarCloud Issues Exporter v{CURRENT_VERSION}")
+    print(f"SonarCloud Issues v{CURRENT_VERSION}")
     print("支持多格式导出")
     print("=" * 60)
 
