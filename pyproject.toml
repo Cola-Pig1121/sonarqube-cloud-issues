@@ -1,6 +1,6 @@
 [project]
 name = "sonarqube-cloud-issues"
-version = "0.1.0"
+version = "0.2.0"
 description = "一个用于从SonarCloud导出issues并支持多种格式（Excel、CSV、JSON）导出的Python工具。"
 readme = "README.md"
 requires-python = ">=3.11"
