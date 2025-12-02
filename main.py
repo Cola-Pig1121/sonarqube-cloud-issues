@@ -22,7 +22,7 @@ API_URL = "https://sonarcloud.io/api/issues/search"
 # 输出文件名前缀
 OUTPUT_PREFIX = "sonarcloud_issues"
 # 当前版本
-CURRENT_VERSION = "0.2.0"
+CURRENT_VERSION = "0.1.0"
 # GitHub API URL
 GITHUB_API_URL = (
     "https://api.github.com/repos/Cola-Pig1121/sonarqube-cloud-issues/releases/latest"
